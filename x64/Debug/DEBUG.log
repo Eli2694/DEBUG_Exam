@@ -1,0 +1,4 @@
+﻿  DEBUG_3.c
+C:\Users\User\source\repos\DEBUG\DEBUG\DEBUG_3.c(42,23): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\User\source\repos\DEBUG\DEBUG\DEBUG_3.c(33,17): warning C4101: 'ch': unreferenced local variable
+  DEBUG.vcxproj -> C:\Users\User\source\repos\DEBUG\x64\Debug\DEBUG.exe
